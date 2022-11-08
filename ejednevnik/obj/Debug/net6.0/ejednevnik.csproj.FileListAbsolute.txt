@@ -1,0 +1,15 @@
+C:\Users\hreno\source\repos\ejednevnik\ejednevnik\obj\Debug\net6.0\ejednevnik.csproj.AssemblyReference.cache
+C:\Users\hreno\source\repos\ejednevnik\ejednevnik\obj\Debug\net6.0\ejednevnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hreno\source\repos\ejednevnik\ejednevnik\obj\Debug\net6.0\ejednevnik.AssemblyInfoInputs.cache
+C:\Users\hreno\source\repos\ejednevnik\ejednevnik\obj\Debug\net6.0\ejednevnik.AssemblyInfo.cs
+C:\Users\hreno\source\repos\ejednevnik\ejednevnik\obj\Debug\net6.0\ejednevnik.csproj.CoreCompileInputs.cache
+C:\Users\hreno\source\repos\ejednevnik\ejednevnik\bin\Debug\net6.0\ejednevnik.exe
+C:\Users\hreno\source\repos\ejednevnik\ejednevnik\bin\Debug\net6.0\ejednevnik.deps.json
+C:\Users\hreno\source\repos\ejednevnik\ejednevnik\bin\Debug\net6.0\ejednevnik.runtimeconfig.json
+C:\Users\hreno\source\repos\ejednevnik\ejednevnik\bin\Debug\net6.0\ejednevnik.dll
+C:\Users\hreno\source\repos\ejednevnik\ejednevnik\bin\Debug\net6.0\ejednevnik.pdb
+C:\Users\hreno\source\repos\ejednevnik\ejednevnik\obj\Debug\net6.0\ejednevnik.dll
+C:\Users\hreno\source\repos\ejednevnik\ejednevnik\obj\Debug\net6.0\refint\ejednevnik.dll
+C:\Users\hreno\source\repos\ejednevnik\ejednevnik\obj\Debug\net6.0\ejednevnik.pdb
+C:\Users\hreno\source\repos\ejednevnik\ejednevnik\obj\Debug\net6.0\ejednevnik.genruntimeconfig.cache
+C:\Users\hreno\source\repos\ejednevnik\ejednevnik\obj\Debug\net6.0\ref\ejednevnik.dll
